@@ -1,0 +1,12 @@
+/***************************************************************************
+Name:   Rohan Sureshbhai Kapadiya
+Email:  rskapadiya@myseneca.ca
+ID:     149427205
+Date:   27-11-2022
+
+** I have done all the coding by myself and only copied the code that my
+   professor provided to complete my workshops and assignments. **
+****************************************************************************/
+After completing the project I can now say that I have learned and now I have the ability to code and implement a number of OOP concepts.
+This project was hard to complete on my own. I struggle a lot while working on this project alone. However, I referred to Seneca's library and it helps me a lot I did find my mistakes, and using the library's notes I was able to solve most of the problems. But somehow this project was very confusing at some point due to its number of files and lengthy code. However, I got lucky, my professor help me a lot in this workshop in our lab session he always tries to clear our doubts and also help me in finding and fixing my code by reminding me of the actual syntax and implementation.
+To sum up, this workshop was far more hardest for me, and without help from my professor, I don't think that I can complete this on time.
